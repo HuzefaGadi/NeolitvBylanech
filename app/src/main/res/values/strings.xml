@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Neolit v Bylanech</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">informace</string>
+    <string name="pruvodce">pruvodce</string>
+    <string name="map">mapa</string>
+    <string name="app_name_full">Průvodce po neolitické krajině v Bylanech</string>
+    <string name="title_activity_information">InformationActivity</string>
+    <string name="info_page_info_1">Projde-li se dnes člověk po krajině v Bylanech u Kutné Hory, v podstatě nic nenasvědčuje tomu, že stojí na místě jedné z nejvýznamnějších evropských archeologických lokalit. V období tzv. neolitu zde po stovky let žili první zemědělci na českém území, nicméně po jejich dlouhých domech a mohutných valech posvátných ohrazení do dnešního dne nezůstalo přes propast času na povrchu ani stopy. Jediným indikátorem osídlení, tak jsou pouze zlomky 7000 let starých keramických nádob, které po orbě probleskují na poli.\n\n
+Tato aplikace se tak díky novým technologickým možnostem, rozhodla zúročit intenzivní terénní výzkumy, které na místě od 50. let 20. století prováděl Archeologický ústav Akademie věd. Množství dosažených poznatků, tak umožnilo poměrně přesnou 3D rekonstrukci tehdejšího osídlení, které je zde zprostředkováno pomocí virtuální reality.\n\n
+Aplikace funguje jako průvodce po krajině v Bylanech, kde bylo vybráno celkem 9 zastávek. V sekci Průvodce můžete pro každou ze zastávek načerpat informace o tom, jak zde lidé v mladší a pozdní době  kamenné žili a jak probíhal archeologický výzkum. Na Mapě jsou tyto zastávky vyznačeny, takže se k nim lze poměrně jednoduše donavigovat a pohlédnout přímo do minulosti. Po kliknutí na ikonu 360° se totiž můžete pohybem přístroje rozhlédnout kolem sebe po neolitické krajině, jejíž 3D rekonstrukce vznikla podle archeologických nálezů z místa kde zrovna stojíte. Na zastávce č. 3 u archeologické základny lze pak u informačních panelů v rozšířené realitě spatřit neolitický kostrový hrob a jednu z nalezených nádob. Více informací včetně dalších aplikací lze získat na webu 3D virtuálního muzea neolitu www.archaeo3d.com.\n\n
+Přejeme Vám příjemnou zábavu!\n\n</string>
+
+    <string name="info_page_info_2">Obr. – mapa jednotlivých zastávek s vyznačením archeologických objektů, sond a ploch terénních výzkumů (1-Miskovice, 2-Rondel, 3-Archeologická základna, 4-Neolitická krajina, 5-Bylany, vrcholné osídlení, 6-Bylany, počátek osídlení, 7-Neolitická pole, 8-Cimburk, 9-Denemark)</string>
+    <string name="info_page_info_3">Tato práce vznikla s podporou Ministerstva kultury České republiky v rámci projektu „Archeologické 3D virtuální muzeum. Nové technologie dokumentace a prezentace neolitického sídelního areálu“, číslo projektu DF12P01OVV032.\n\n
+Created by virtualhistory.cz
+</string>
+</resources>
